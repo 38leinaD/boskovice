@@ -1,0 +1,17 @@
+{
+    version: 0,
+    name: "Back from Vacation",
+    levels:
+    [
+        {
+            name: "Back on Mars",
+            file: "demo0.png",
+            skyLight: [ 0.2, 0.1, 0.0 ]
+        },
+        {
+            name: "Slimes",
+            file: "demo1.png",
+            skyLight: [ 0.2, 0.1, 0.0 ]
+        }
+    ]
+}
